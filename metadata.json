@@ -1,0 +1,7 @@
+{
+  "name": "LinguaFlow",
+  "description": "A seamless real-time translation tool. Features accurate text translation, natural text-to-speech playback, and a modern fluid UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
